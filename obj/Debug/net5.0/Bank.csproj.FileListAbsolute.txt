@@ -1,0 +1,16 @@
+C:\workspace\DigitalInnovationOne\Bank\bin\Debug\net5.0\Bank.exe
+C:\workspace\DigitalInnovationOne\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\workspace\DigitalInnovationOne\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\workspace\DigitalInnovationOne\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\workspace\DigitalInnovationOne\Bank\bin\Debug\net5.0\Bank.dll
+C:\workspace\DigitalInnovationOne\Bank\bin\Debug\net5.0\ref\Bank.dll
+C:\workspace\DigitalInnovationOne\Bank\bin\Debug\net5.0\Bank.pdb
+C:\workspace\DigitalInnovationOne\Bank\obj\Debug\net5.0\Bank.csprojAssemblyReference.cache
+C:\workspace\DigitalInnovationOne\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DigitalInnovationOne\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\workspace\DigitalInnovationOne\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\workspace\DigitalInnovationOne\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\workspace\DigitalInnovationOne\Bank\obj\Debug\net5.0\Bank.dll
+C:\workspace\DigitalInnovationOne\Bank\obj\Debug\net5.0\ref\Bank.dll
+C:\workspace\DigitalInnovationOne\Bank\obj\Debug\net5.0\Bank.pdb
+C:\workspace\DigitalInnovationOne\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
